@@ -2,5 +2,6 @@
   "format": "rss",
   "citation": "The Xerces Society, Wildlife Preservation Canada, York University, University of Ottawa, The Montreal Insectarium, The London Natural History Museum, BeeSpotter. Data accessed from Bumble Bee Watch , a collaborative website to track and conserve North America’s bumble bees. Available via https://bumblebeewatch.org . ",
   "url": "https://ipt.gbif.us/rss.do",
-  "include": ".*Bumble Bee Watch.*"
+  "include": ".*(Bumble Bee Watch|Pollination Biology and Bee Pollinators).*"
+
 }
