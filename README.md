@@ -1,4 +1,4 @@
-[![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/gbif-us-bees)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/gbif-us-bees) 
+[![GloBI Review by Elton](../../actions/workflows/review.yml/badge.svg)](../../actions/workflows/review.yml) [![GloBI](http://api.globalbioticinteractions.org/interaction.svg?accordingTo=globi:globalbioticinteractions/gbif-us-bees)](http://globalbioticinteractions.org/?accordingTo=globi:globalbioticinteractions/gbif-us-bees) 
 
 
 Configuration to help make the *bee* records in collection of GBIF-US, which website, gbif.us, serves as a national data portal and access point to U.S. species occurrence data contributed to GBIF. It is co-managed by the scientific community of the United States via [https://github.com/gbif/hp-bison](https://github.com/gbif/hp-bison). ~~USGS Biodiversity Information Serving Our Nation (BISON, https://bison.usgs.gov)~~. IPT available through Global Biotic Interactions (GloBI, https://globalbioticinteractions.org). 
